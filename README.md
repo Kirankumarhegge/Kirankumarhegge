@@ -13,7 +13,7 @@ As a lifelong technology enthusiast and web development devotee 🙏, I am a pas
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node,mongodb,express,bash,cpp,aws,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,bash,cpp,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -26,7 +26,7 @@ As a lifelong technology enthusiast and web development devotee 🙏, I am a pas
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linked In](https://www.linkedin.com/in/kiran-kumar-hegge-595568234/)
+- Connect with me on [Linked In](https://www.linkedin.com/in/kiran-kumar-hegge-595568234/), [Twitter/X](https://x.com/HeggeKiran)
 
 
 Thank you for visiting my profile! Feel free to explore my projects, and let’s dive into the world of technology together. I’m excited about the possibilities we can discover and create. 🚀
